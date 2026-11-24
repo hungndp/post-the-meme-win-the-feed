@@ -12,7 +12,7 @@ A deadpan official invoice: 1x production database (deleted) — 214,000 apologi
 
 ![The meme: an invoice for a deleted production database, stamped PAID BY MY AI AGENT](meme.png)
 
-The post's exact text lives in [`POSTING.md`](../POSTING.md) — it carries the `@_myronera` tag and the play code `ebjdb2tv`.
+The post's exact text lives in [`POSTING.md`](../POSTING.md) — it carries the `@_myronera` tag and one of the account's `makefun-...` play codes (fetched from the bounty's play-code route; `ebjdb2tv` is the referral code, not a play code).
 
 ## How the entry works
 
